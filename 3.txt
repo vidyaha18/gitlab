@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 hello hi
+=======
+>>>>>>> feature-branch
 hi
